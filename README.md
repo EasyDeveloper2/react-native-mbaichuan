@@ -1,4 +1,6 @@
-
+# 说明
+原作者 https://github.com/bashen1/react-native-mbaichuan
+本模块是项目需要一些调整
 # react-native-mbaichuan
 
 ## 升级到SDK为4.X
