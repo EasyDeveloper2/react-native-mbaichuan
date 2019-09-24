@@ -404,9 +404,9 @@ public class RNReactNativeMbaichuanModule extends ReactContextBaseJavaModule {
     private AlibcTaokeParams dealTaokeParams(final ReadableMap param) {
         ReadableMap payload = param.getMap("payload");
         // 初始化参数
-        String mmpid = "mm_23448739_15832573_60538822";
-        String adzoneid = "60538822";
-        String tkkey = "23482513";
+        String mmpid = "mm_125663651_34564131_122006971";
+        String adzoneid = "122006971";
+        String tkkey = "24638433";
 
         // 设置mmpid
         if (payload.hasKey("mmpid") && (payload.getString("mmpid") != null || !payload.getString("mmpid").equals(""))) {

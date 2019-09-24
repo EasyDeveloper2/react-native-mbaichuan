@@ -307,10 +307,10 @@
 {
     NSDictionary *payload = (NSDictionary *)param[@"payload"];
     
-    NSString *mmPid = @"mm_114988374_16864682_45439350353";
+    NSString *mmPid = @"mm_125663651_34564131_122006971";
     NSString *isvcode=@"app";
-    NSString *adzoneid=@"45439350353";
-    NSString *tkkey=@"23488271";
+    NSString *adzoneid=@"122006971";
+    NSString *tkkey=@"24638433";
     
     AlibcTradeTaokeParams *taokeParam = [[AlibcTradeTaokeParams alloc] init];
     if ((NSString *)payload[@"mmpid"]!=nil) {
